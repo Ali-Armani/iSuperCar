@@ -16,7 +16,7 @@
 
     .nav-bar {
         display: flex;
-        gap: 30px;
+        gap: 48px;
     }
 
     .nav-bar a {
