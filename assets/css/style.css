@@ -1,1 +1,24 @@
 
+    .h1 {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 70px;
+    margin-top: 80px;
+    margin-left: 30px;
+    margin-bottom: 15px;
+    margin-right: 30px;
+    color: rgb(111, 12, 111);
+    }
+
+    .h1-stuff {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-bottom: 15px;
+    margin-right: 30px;
+    color: rgb(111, 12, 111);
+    }
